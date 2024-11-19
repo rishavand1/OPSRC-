@@ -63,3 +63,4 @@ Thank you.
 [chat]: https://openipc.org/our-channels
 [contribution]: https://opencollective.com/openipc/contribute/backer-14335/checkout
 "# Firmwaree" 
+"# Ris" 
